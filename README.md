@@ -1,3 +1,7 @@
-Proyecto realizado y revisado como proyecto de grado universitario 2do Semestre
+Proyecto de grado universitario 3er Semestre, PROGRAMACIÓN ORIENTADA A OBJETOS
 
-*REGISTRO, BUSQUEDA Y ELIMINACION DE LIBROS MEDIANTE EL CODIGO ISBN
+- REGISTRO, BUSQUEDA Y ELIMINACION DE LIBROS MEDIANTE EL CODIGO ISBN
+
+![Texto alternativo](https://github.com/severinodev/Biblioteca-Virtual/blob/83b49a9bbf6e5da973ca92ced0b8b8dde101d4b9/HOME.png)
+![Texto alternativo](https://github.com/severinodev/Biblioteca-Virtual/blob/83b49a9bbf6e5da973ca92ced0b8b8dde101d4b9/LIBROS%20GUARDADOS.png)
+
