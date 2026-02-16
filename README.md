@@ -1,4 +1,4 @@
-Proyecto de grado universitario 3er Semestre, PROGRAMACIÓN ORIENTADA A OBJETOS
+Sistema para la gestión de libros de una discoteca
 
 - REGISTRO, BUSQUEDA Y ELIMINACION DE LIBROS MEDIANTE EL CODIGO ISBN
 
